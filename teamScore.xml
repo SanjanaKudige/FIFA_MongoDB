@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matchScores>
+   <teamsscoresdata>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/14/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Russia</Team1>
+               <Team1_Score>5</Team1_Score>
+               <Team2>Saudi Arabia</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Russia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Ekaterinburg</City>
+               <MatchDate>6/15/2018</MatchDate>
+               <Stadium>Ekaterinburg Arena</Stadium>
+               <Team1>Egypt</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Morocco</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Egypt</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/15/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>IR Iran</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Uruguay</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>IR Iran</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Sochi</City>
+               <MatchDate>6/15/2018</MatchDate>
+               <Stadium>Fisht Stadium</Stadium>
+               <Team1>Portugal</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Spain</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Portugal</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saransk</City>
+               <MatchDate>6/16/2018</MatchDate>
+               <Stadium>Mordovia Arena</Stadium>
+               <Team1>Peru</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Nigeria</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Peru</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saransk</City>
+               <MatchDate>6/16/2018</MatchDate>
+               <Stadium>Mordovia Arena</Stadium>
+               <Team1>Denmark</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Argentina</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Denmark</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/16/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Iceland</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>France</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Iceland</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kaliningrad</City>
+               <MatchDate>6/16/2018</MatchDate>
+               <Stadium>Kaliningrad Stadium</Stadium>
+               <Team1>Croatia</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Australia</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Croatia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Samara</City>
+               <MatchDate>6/17/2018</MatchDate>
+               <Stadium>Samara Arena</Stadium>
+               <Team1>Costa Rica</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Brazil</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Costa Rica</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Rostov-on-Don</City>
+               <MatchDate>6/17/2018</MatchDate>
+               <Stadium>Rostov Arena</Stadium>
+               <Team1>Switzerland</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Mexico</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Switzerland</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/17/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Germany</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Serbia</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Germany</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Volgograd</City>
+               <MatchDate>6/18/2018</MatchDate>
+               <Stadium>Volgograd Stadium</Stadium>
+               <Team1>England</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Panama</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>England</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Volgograd</City>
+               <MatchDate>6/18/2018</MatchDate>
+               <Stadium>Volgograd Stadium</Stadium>
+               <Team1>Tunisia</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Belgium</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Tunisia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Nizhny Novgorod</City>
+               <MatchDate>6/18/2018</MatchDate>
+               <Stadium>Nizhny Novgorod Stadium</Stadium>
+               <Team1>Korea Republic</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Sweden</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Korea Republic</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/19/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Russia</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Colombia</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Russia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/19/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Egypt</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Senegal</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Egypt</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/19/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Poland</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Japan</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Poland</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Rostov-on-Don</City>
+               <MatchDate>6/20/2018</MatchDate>
+               <Stadium>Rostov Arena</Stadium>
+               <Team1>Saudi Arabia</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Uruguay</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Saudi Arabia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/20/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Portugal</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Spain</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Portugal</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/20/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Morocco</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>IR Iran</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Morocco</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Nizhny Novgorod</City>
+               <MatchDate>6/21/2018</MatchDate>
+               <Stadium>Nizhny Novgorod Stadium</Stadium>
+               <Team1>Croatia</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Argentina</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Croatia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Ekaterinburg</City>
+               <MatchDate>6/21/2018</MatchDate>
+               <Stadium>Ekaterinburg Arena</Stadium>
+               <Team1>France</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Australia</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>France</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Ekaterinburg</City>
+               <MatchDate>6/21/2018</MatchDate>
+               <Stadium>Ekaterinburg Arena</Stadium>
+               <Team1>Peru</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Denmark</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Peru</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/22/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Brazil</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Iceland</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Brazil</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kaliningrad</City>
+               <MatchDate>6/22/2018</MatchDate>
+               <Stadium>Kaliningrad Stadium</Stadium>
+               <Team1>Switzerland</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Nigeria</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Switzerland</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/22/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Costa Rica</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Serbia</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Costa Rica</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/23/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Tunisia</Team1>
+               <Team1_Score>5</Team1_Score>
+               <Team2>Mexico</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Tunisia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/23/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Belgium</Team1>
+               <Team1_Score>5</Team1_Score>
+               <Team2>Korea Republic</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Belgium</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Sochi</City>
+               <MatchDate>6/23/2018</MatchDate>
+               <Stadium>Fisht Stadium</Stadium>
+               <Team1>Sweden</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Germany</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Sweden</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Nizhny Novgorod</City>
+               <MatchDate>6/24/2018</MatchDate>
+               <Stadium>Nizhny Novgorod Stadium</Stadium>
+               <Team1>Panama</Team1>
+               <Team1_Score>6</Team1_Score>
+               <Team2>Japan</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Panama</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/24/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Colombia</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Senegal</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Colombia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/24/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Poland</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>England</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Poland</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Samara</City>
+               <MatchDate>6/25/2018</MatchDate>
+               <Stadium>Samara Arena</Stadium>
+               <Team1>Russia</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Portugal</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Russia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saransk</City>
+               <MatchDate>6/25/2018</MatchDate>
+               <Stadium>Mordovia Arena</Stadium>
+               <Team1>IR Iran</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Saudi Arabia</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>IR Iran</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Volgograd</City>
+               <MatchDate>6/25/2018</MatchDate>
+               <Stadium>Volgograd Stadium</Stadium>
+               <Team1>Egypt</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Uruguay</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Egypt</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kaliningrad</City>
+               <MatchDate>6/25/2018</MatchDate>
+               <Stadium>Kaliningrad Stadium</Stadium>
+               <Team1>Spain</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Morocco</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Spain</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/26/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Nigeria</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>France</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Nigeria</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Sochi</City>
+               <MatchDate>6/26/2018</MatchDate>
+               <Stadium>Fisht Stadium</Stadium>
+               <Team1>Australia</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Denmark</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Australia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Sochi</City>
+               <MatchDate>6/26/2018</MatchDate>
+               <Stadium>Fisht Stadium</Stadium>
+               <Team1>Peru</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Croatia</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Peru</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>6/26/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Argentina</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Iceland</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Argentina</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/27/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Germany</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Mexico</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Germany</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/27/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Korea Republic</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Costa Rica</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Korea Republic</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>6/27/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Brazil</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Switzerland</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Brazil</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Ekaterinburg</City>
+               <MatchDate>6/27/2018</MatchDate>
+               <Stadium>Ekaterinburg Arena</Stadium>
+               <Team1>Sweden</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Serbia</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Sweden</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kaliningrad</City>
+               <MatchDate>6/28/2018</MatchDate>
+               <Stadium>Kaliningrad Stadium</Stadium>
+               <Team1>Belgium</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Panama</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Belgium</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Volgograd</City>
+               <MatchDate>6/28/2018</MatchDate>
+               <Stadium>Volgograd Stadium</Stadium>
+               <Team1>Japan</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Colombia</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Japan</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Samara</City>
+               <MatchDate>6/28/2018</MatchDate>
+               <Stadium>Samara Arena</Stadium>
+               <Team1>Senegal</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Poland</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Senegal</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kaliningrad</City>
+               <MatchDate>6/28/2018</MatchDate>
+               <Stadium>Kaliningrad Stadium</Stadium>
+               <Team1>England</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Tunisia</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>England</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/30/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>France</Team1>
+               <Team1_Score>4</Team1_Score>
+               <Team2>Uruguay</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>France</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>6/30/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Argentina</Team1>
+               <Team1_Score>4</Team1_Score>
+               <Team2>Portugal</Team2>
+               <Team2_Score>3</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Argentina</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Nizhny Novgorod</City>
+               <MatchDate>7/1/2018</MatchDate>
+               <Stadium>Nizhny Novgorod Stadium</Stadium>
+               <Team1>Croatia</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Denmark</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Croatia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>7/1/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Russia</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Spain</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Russia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>7/10/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Belgium</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>France</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Belgium</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>7/11/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Croatia</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>England</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Croatia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Saint Petersburg</City>
+               <MatchDate>7/14/2018</MatchDate>
+               <Stadium>Saint Petersburg Stadium</Stadium>
+               <Team1>Belgium</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>England</Team2>
+               <Team2_Score>0</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Belgium</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>7/15/2018</MatchDate>
+               <Stadium>Luzhniki Stadium</Stadium>
+               <Team1>Croatia</Team1>
+               <Team1_Score>4</Team1_Score>
+               <Team2>France</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Croatia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Rostov-on-Don</City>
+               <MatchDate>7/2/2018</MatchDate>
+               <Stadium>Rostov Arena</Stadium>
+               <Team1>Belgium</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Mexico</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Belgium</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Rostov-on-Don</City>
+               <MatchDate>7/2/2018</MatchDate>
+               <Stadium>Rostov Arena</Stadium>
+               <Team1>Japan</Team1>
+               <Team1_Score>3</Team1_Score>
+               <Team2>Brazil</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Japan</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>7/3/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>England</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Sweden</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>England</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Moscow</City>
+               <MatchDate>7/3/2018</MatchDate>
+               <Stadium>Spartak Stadium</Stadium>
+               <Team1>Colombia</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>Switzerland</Team2>
+               <Team2_Score>1</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Colombia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Nizhny Novgorod</City>
+               <MatchDate>7/6/2018</MatchDate>
+               <Stadium>Nizhny Novgorod Stadium</Stadium>
+               <Team1>Uruguay</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>Belgium</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Uruguay</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Kazan</City>
+               <MatchDate>7/6/2018</MatchDate>
+               <Stadium>Kazan Arena</Stadium>
+               <Team1>Brazil</Team1>
+               <Team1_Score>1</Team1_Score>
+               <Team2>France</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Brazil</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Sochi</City>
+               <MatchDate>7/7/2018</MatchDate>
+               <Stadium>Fisht Stadium</Stadium>
+               <Team1>Russia</Team1>
+               <Team1_Score>2</Team1_Score>
+               <Team2>Croatia</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Russia</team>
+      </element>
+      <element>
+         <matchScore>
+            <element>
+               <City>Samara</City>
+               <MatchDate>7/7/2018</MatchDate>
+               <Stadium>Samara Arena</Stadium>
+               <Team1>Sweden</Team1>
+               <Team1_Score>0</Team1_Score>
+               <Team2>England</Team2>
+               <Team2_Score>2</Team2_Score>
+            </element>
+         </matchScore>
+         <team>Sweden</team>
+      </element>
+   </teamsscoresdata>
+</matchScores>
